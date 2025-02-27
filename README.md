@@ -6,7 +6,6 @@ This project is a React-based website that displays the movies using the Top 100
 - Fetches top-rated movies from RapidAPI.
 - Displays movie details including title, year, rating, genre, director, and description.
 - Uses `axios` for API requests.
-- Responsive and modern UI.
 
 ## Tech Stack
 - React.js
@@ -38,12 +37,8 @@ This project is a React-based website that displays the movies using the Top 100
 ![image](https://github.com/user-attachments/assets/854368b4-517b-4409-b915-6016bd7adef1)
 ![image](https://github.com/user-attachments/assets/8fabd589-be06-45bd-8383-99a271efaa5c)
 
-
-## API Configuration
-Replace `x-rapidapi-key` in `Home.jsx` and `MovieDetails.jsx` with your own API key from [RapidAPI](https://rapidapi.com/).
-
 ## Usage
 - The home page displays a list of top movies.
-- Clicking on a movie redirects to a detailed page.
-- Users can view IMDb ratings and trailers.
+- Clicking on a movie redirects to a detaile page.
+- Users can view IMDb ratings.
 
