@@ -36,7 +36,6 @@ This project is a React-based website that displays the movies using the Top 100
 
 ### Movies Details:
 ![image](https://github.com/user-attachments/assets/854368b4-517b-4409-b915-6016bd7adef1)
-![image](https://github.com/user-attachments/assets/23e36ed6-43b6-403d-8030-36b97176d30a)
 ![image](https://github.com/user-attachments/assets/8fabd589-be06-45bd-8383-99a271efaa5c)
 
 
