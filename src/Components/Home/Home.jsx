@@ -4,7 +4,7 @@ import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
 function Home() {
-  const [movies, setMovies] = useState([]); // Ensure initial state is an array
+  const [movies, setMovies] = useState([]);
   const [query, setQuery] = useState("");
   const [filteredMovies, setFilteredMovies] = useState([]);
   const [genre, setGenre] = useState("");

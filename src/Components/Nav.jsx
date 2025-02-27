@@ -8,7 +8,6 @@ function Nav() {
   return (
     <nav className="bg-gradient-to-r from-[#454a46] to-[#3d473f] p-4 shadow-lg">
       <div className="container mx-auto flex justify-between items-center">
-        {/* Company Name */}
         <motion.h1
           className="text-white text-3xl font-bold tracking-wide cursor-pointer"
           initial={{ opacity: 0, y: -10 }}

@@ -6,9 +6,7 @@ function Footer() {
   return (
     <footer className="bg-gradient-to-r from-[#454a46] to-[#3d473f] text-white py-8">
       <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
-        {/* Website Desc */}
         <div className="text-center md:text-left mb-6 md:mb-0">
-          {/* Company Name */}
           <motion.h1
             className="text-white text-3xl font-bold tracking-wide cursor-pointer"
             initial={{ opacity: 0, y: -10 }}
