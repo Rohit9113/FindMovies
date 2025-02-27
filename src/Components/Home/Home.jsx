@@ -142,9 +142,8 @@ function Home() {
           (_, index) => (
             <button
               key={index}
-              className={`px-3 py-1 mx-1 rounded ${
-                currentPage === index + 1 ? "bg-indigo-500" : "bg-gray-700"
-              }`}
+              className={`px-3 py-1 mx-1 rounded ${currentPage === index + 1 ? "bg-indigo-500" : "bg-gray-700"
+                }`}
               onClick={() => paginate(index + 1)}
             >
               {index + 1}
